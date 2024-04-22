@@ -1,0 +1,5 @@
+G00 Z5.000000|M03 S05\nG04 P0.3
+Z-0.125000|
+G01  F100.0(Penetrate)|G04 P0.3{newline}M03 S120
+F400|F{speed}
+   
