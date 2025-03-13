@@ -1,1 +1,1 @@
-edit-text is a script to replace text in a file. It references a replacements.txt which is set up for the pen plotter in Does Liverpool. 
+edit-file is a script to find and replace multiple pieces of text in a file. To use it, populate replacements.txt with each piece of text to be replaced and the replacement text, line by line. The standard replacements.txt is set up for the pen plotter in Does Liverpool. 
